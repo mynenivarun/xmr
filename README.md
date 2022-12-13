@@ -1,5 +1,5 @@
 # xmr
-xmr
+mining xmr on cloud 
 
 Are you bored of using our system for mining xmr 
 Then here is the solution  
